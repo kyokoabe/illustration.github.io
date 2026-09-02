@@ -170,3 +170,16 @@ opacity: 0;
 .footer p{
           color:#fff;
           font-size: 0.875rem;}
+.top-btn a{
+    text-align:center;
+    color:#432;
+   text-decoration: none;
+ 
+  }
+  .top-btn{
+    font-family:serif;
+    text-align: center;
+  }
+.top-btn a:hover{
+  color:#0bd;
+}
